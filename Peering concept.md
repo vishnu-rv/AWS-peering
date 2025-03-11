@@ -83,6 +83,10 @@ Initially, after setting up **VPC Peering in the same region**, I faced an issue
 
 ![Screenshot from 2025-03-12 05-12-56](https://github.com/user-attachments/assets/7180a6f2-dfed-4f3e-a98f-45f17eb1207a)
 
+
+![Screenshot from 2025-03-12 05-16-04](https://github.com/user-attachments/assets/43223db8-d9ef-4210-8168-1030610144d9)
+
+
 ### **3. Request a Cross-Region Peering Connection**
 - Navigate to **VPC Dashboard → Peering Connections**
 - Select **Region of Project1-VPC (Ohio)**
